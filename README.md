@@ -1,7 +1,7 @@
 # FreelancersMarketPortal project  
   
 Last update: 04May2023  
-Summary:     Still, the quantity of the source-code is too low, i.e. it cannot be used to get a reasonable idea for my (MilenG) programming skills.  
+Summary:     Still, the quantity of the source-code here is too low, i.e. it cannot be used to get a reasonable idea for my (MilenG) programming skills.  
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  FreempSproduct microservice repo was created.  
   
   
