@@ -8,7 +8,7 @@ Summary:
   
 The current repo is planned to be like a parent of all microservices' repos (with prefix FreeMPXxx /FreempXxx) the FreelancersMarketPortal product /solution consists of. It will hold architecture and other documents describing the product (eco-system of microservices) and all artefacts /items which are not part of any microservice.  
   
-Currently, the main two /2 purposes of the current repo (and all its child-repos) are:  
+Currently, the main two /2 purposes for the existance of the current repo (and all its child-repos) are:  
 - 1of2 For me (MilenG), to exercise the full (end-to-end) tech-stack used in the Microservices architecture.  
 &nbsp;&nbsp; I have been involved in Microservices projects, but I have worked with many colleagues and missed to build hands-on skills  
 &nbsp;&nbsp; on the full-tech-stack. Hence, currently, I'm the only developer using these repositories.  
