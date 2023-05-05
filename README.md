@@ -10,12 +10,13 @@ The current repo is planned to be like a parent of all microservices' repos (wit
   
 Currently, the main two /2 purposes of the current repo (and all its child-repos) are:  
 1of2- for me (MilenG), to exercise the full (end-to-end) tech-stack used in the Microservices architecture.  
-&nbsp;&nbsp; I have been involved in Microservices projects, but I have worked with many colleagues and missed to build hands-on skills on the full-tech-stack.
+&nbsp;&nbsp; I have been involved in Microservices projects, but I have worked with many colleagues and missed to build hands-on skills on the full-tech-stack.  
 &nbsp;&nbsp; Hence, currently, I'm the only developer using these repositories.  
 2of2- for my near-future employers /contractors /partners /clients to review my source-code delivered here, to assess its quality and to decide, if they would like to work with me.  
   
   
-Business logic /purpose: FreelancersMarketPortal meets clients with freelance workers and ensures satisfaction for both sides! Our freelancers supply services to clients on all business domains, e.g. software development, language translations, law councelling, life-coaching /pshycho-terapy and many others.  
+Business logic /purpose:  
+&nbsp;&nbsp; FreelancersMarketPortal meets clients with freelance workers and ensures satisfaction for both sides! Our freelancers supply services to clients on all business domains, e.g. software development, language translations, law councelling, life-coaching /pshycho-terapy and many others.  
   
   
   
