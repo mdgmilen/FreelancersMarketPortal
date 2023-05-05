@@ -23,13 +23,12 @@ Business logic /purpose:
 &nbsp;  
 &nbsp;  
 &nbsp;  
-&nbsp;  
-&nbsp;  
 Bad practices in the current project:  
 - no tool like Sonar Qube is used.  
   "Empower development teams with a solution that deeply integrates into your enterprise environment and enables you to deploy clean code consistently and reliably";  
 - no unit-tests are planned to be implemented;  
 - no feature-branches are planned to be used. The only branch is "main". There is no branch called "master".  
+  
 &nbsp;  
 &nbsp;  
 &nbsp;  
