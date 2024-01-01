@@ -1,0 +1,15 @@
+
+> freemp-front-end@0.0.0 start
+> ng serve
+
+
+Initial Chunk Files | Names         |  Raw Size
+polyfills.js        | polyfills     |  82.71 kB |
+main.js             | main          |  25.08 kB |
+styles.css          | styles        |  95 bytes |
+
+                    | Initial Total | 107.88 kB
+
+Application bundle generation complete. [8.839 seconds]
+Watch mode enabled. Watching for file changes...
+  ➜  Local:   http://localhost:4200/
