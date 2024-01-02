@@ -1,5 +1,8 @@
 #!/bin/bash
 
+# For how-to-use /USAGE the current script information, please find /see the showUsefulCommands() function below
+
+dirScriptStartedFrom=${PWD}
 pathGitHome=/home/mileng/UserMb5400im1/projects/git
 nameCurrentScript=orchestration_local
 pathCurrentScript=$pathGitHome/FreelancersMarketPortal/orchestrationLocal
@@ -46,8 +49,9 @@ execBeforeFinishCommands ()
 showUsefulCommands ()
 {
     echo "Entering...'showUsefulCommands()'"
-    echo "useful command 0: USAGE: '. /home/mileng/UserMb5400im1/projects/git/FreelancersMarketPortal/orchestrationLocal/orchestration_local.sh debug'"
-    echo "useful command 0: USAGE: '. /home/mileng/UserMb5400im1/projects/git/FreelancersMarketPortal/orchestrationLocal/orchestration_local.sh'"
+    echo "useful command 0: USAGE: 'With or without 'debug' parameter. With it the script will show more information"
+    echo "useful command 0: USAGE: '. /home/mileng/UserMb5400im1/projects/git/orchestrationLocal/orchestration_local.sh debug'"
+    echo "useful command 0: USAGE: '. /home/mileng/UserMb5400im1/projects/git/orchestrationLocal/orchestration_local.sh'"
     echo "useful command 1: 'kill -SIGINT xxx'"
     echo "useful command 2: 'ps aux | grep mileng | grep -v \"/usr/bin\" | grep -v \"/usr/lib\" | grep -v docker | grep -v \"/bin/zsh\"'"
     echo "useful command 3: 'ps -ef | grep 63722'"
@@ -133,11 +137,11 @@ then
   execAfterStartCommands
 fi
 startFrontEnd
-#startFreempSproduct
+startFreempSproduct
 if [ $showDebugInfo = "true" ]
 then
   execBeforeFinishCommands
   showUsefulCommands
 fi
-cd $pathGitHome
+cd $dirScriptStartedFrom
 echo "Finishing orchestration_local.sh ..."

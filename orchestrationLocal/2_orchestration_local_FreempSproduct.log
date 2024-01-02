@@ -1,0 +1,21 @@
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+ :: Spring Boot ::                (v3.0.6)
+
+2024-01-02T09:37:19.516+02:00  INFO 51439 --- [           main] c.i.f.FreempSproductApplication          : Starting FreempSproductApplication v0.0.1-SNAPSHOT using Java 17.0.9 with PID 51439 (/home/mileng/UserMb5400im1/projects/git/FreempSproduct/build/libs/FreempSproduct-0.0.1-SNAPSHOT.jar started by mileng in /home/mileng/UserMb5400im1/projects/git/FreempSproduct)
+2024-01-02T09:37:19.524+02:00  INFO 51439 --- [           main] c.i.f.FreempSproductApplication          : No active profile set, falling back to 1 default profile: "default"
+2024-01-02T09:37:21.007+02:00  INFO 51439 --- [           main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8081 (http)
+2024-01-02T09:37:21.024+02:00  INFO 51439 --- [           main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-01-02T09:37:21.025+02:00  INFO 51439 --- [           main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.8]
+2024-01-02T09:37:21.169+02:00  INFO 51439 --- [           main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-01-02T09:37:21.173+02:00  INFO 51439 --- [           main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1510 ms
+2024-01-02T09:37:21.660+02:00  INFO 51439 --- [           main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8081 (http) with context path ''
+2024-01-02T09:37:21.689+02:00  INFO 51439 --- [           main] c.i.f.FreempSproductApplication          : Started FreempSproductApplication in 2.801 seconds (process running for 3.7)
+2024-01-02T09:38:24.819+02:00  INFO 51439 --- [nio-8081-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-01-02T09:38:24.819+02:00  INFO 51439 --- [nio-8081-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-01-02T09:38:24.821+02:00  INFO 51439 --- [nio-8081-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 2 ms
