@@ -1,10 +1,12 @@
 # FreelancersMarketPortal project  
   
-Last update: 04May2023  
+Last update: 17May2024
 Summary:
-- Still, the quantity of the source-code here is too low, i.e. it cannot be used to get a reasonable idea for my (MilenG) programming skills.  
-- FreempSproduct microservice repo was created.  
-  
+- Still, the quantity of the source-code here is too low, i.e. it cannot be used to get a reasonable idea for my (MilenG) programming skills;
+- This project with all the microservices is planned as Cloud Native.
+Prev update: Mar2023
+- FreempSproduct microservice repo was created.
+
 &nbsp;  
 The current repo is planned to be like a parent of all microservices' repos (with prefix FreeMPXxx /FreempXxx) the FreelancersMarketPortal product /solution consists of. It will hold architecture and other documents describing the product (eco-system of microservices) and all artefacts /items which are not part of any microservice.  
   
