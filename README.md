@@ -3,7 +3,8 @@
 Last update: 17May2024
 Summary:
 - Still, the quantity of the source-code here is too low, i.e. it cannot be used to get a reasonable idea for my (MilenG) programming skills;
-- This project with all the microservices is planned as Cloud Native.  
+- This project with all the microservices is planned as Cloud Native.
+  
 Prev update: Mar2023
 - FreempSproduct microservice repo was created.
 
