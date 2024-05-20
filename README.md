@@ -24,6 +24,10 @@ Business logic /purpose:
 &nbsp;&nbsp; FreelancersMarketPortal meets clients with freelance workers and ensures satisfaction for both sides! Our freelancers supply services to clients on all business domains, e.g. software development, language translations, law councelling, life-coaching /pshycho-terapy and many others.  
 &nbsp;  
 &nbsp;  
+Usage:  
+&nbsp;&nbsp; Open http://masters.improve1.com/  
+&nbsp;  
+&nbsp;  
 &nbsp;  
 &nbsp;  
 Bad practices in the current project:  
