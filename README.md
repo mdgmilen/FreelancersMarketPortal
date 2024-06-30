@@ -7,7 +7,11 @@ Summary:
   
 Prev update: Mar2023
 - FreempSproduct microservice repo was created.
-
+&nbsp;  
+Usage:  
+&nbsp;&nbsp; Open http://masters.improve1.com/  
+&nbsp;  
+&nbsp;  
 &nbsp;  
 The current repo is planned to be like a parent of all microservices' repos (with prefix FreeMPXxx /FreempXxx) the FreelancersMarketPortal product /solution consists of. It will hold architecture and other documents describing the product (eco-system of microservices) and all artefacts /items which are not part of any microservice.  
   
@@ -22,11 +26,6 @@ Currently, the main two /2 purposes for the existance of the current repo (and a
 &nbsp;  
 Business logic /purpose:  
 &nbsp;&nbsp; FreelancersMarketPortal meets clients with freelance workers and ensures satisfaction for both sides! Our freelancers supply services to clients on all business domains, e.g. software development, language translations, law councelling, life-coaching /pshycho-terapy and many others.  
-&nbsp;  
-&nbsp;  
-Usage:  
-&nbsp;&nbsp; Open http://masters.improve1.com/  
-&nbsp;  
 &nbsp;  
 &nbsp;  
 &nbsp;  
