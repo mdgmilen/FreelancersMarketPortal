@@ -11,7 +11,8 @@ Prev update: Mar2023
 &nbsp;  
 &nbsp;  
 Usage:  
-&nbsp;&nbsp; Open http://bel.improve1.com/  
+&nbsp;&nbsp; working http://cloud-tiz6id8w.hosteur.net:8081/api/sproduct
+&nbsp;&nbsp; oncoming http://bel.improve1.com/  
 &nbsp;&nbsp; oncoming http://masters.improve1.com/  
 &nbsp;  
 &nbsp;  
